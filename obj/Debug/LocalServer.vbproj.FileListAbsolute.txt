@@ -40,3 +40,11 @@ D:\Dev\VisualBasic\LocalServer\bin\Debug\System.Data.SqlClient.dll
 D:\Dev\VisualBasic\LocalServer\bin\Debug\System.Data.SqlClient.xml
 D:\Dev\VisualBasic\LocalServer\obj\Debug\LocalServer.Home.resources
 D:\Dev\VisualBasic\LocalServer\obj\Debug\LocalServer.qrcodepic.resources
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.vbproj.AssemblyReference.cache
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.Home.resources
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.Resources.resources
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.vbproj.GenerateResource.cache
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.vbproj.CoreCompileInputs.cache
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.exe
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.xml
+D:\Dev\Visual-Basic\VisualBasic-app\obj\Debug\LocalServer.pdb
